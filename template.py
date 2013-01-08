@@ -3,6 +3,8 @@
 import os, sys
 
 def example_function(a,b,c=17.5,d=True):
+    print 'here are some more changes to the program for the purpose of explaining git'
+
     """
     This is an example function
     a: A number that must be handed to the function
