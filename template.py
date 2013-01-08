@@ -45,7 +45,7 @@ def main():
 
     print 'sum =',sum
 
-
+    print 'hello world'
 # This executes main() only if executed from shell
 if __name__ == '__main__':
     main()
