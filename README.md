@@ -1,4 +1,4 @@
-VerticalProbability
+iVerticalProbability
 ===================
 
 This is a program that takes and xyz file, and extracts the z-component data for oxygen atoms (labelled 'O' in the first column of the xyz file). 
